@@ -1,0 +1,70 @@
+[14-Apr-2022 10:17:05 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/redis.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/redis.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[14-Apr-2022 11:59:00 UTC] PHP Warning:  require(/home/flourish/api.flourish.co.id./bootstrap/app.php): failed to open stream: No such file or directory in /home/flourish/api.flourish.co.id/index.php on line 14
+[14-Apr-2022 11:59:00 UTC] PHP Fatal error:  require(): Failed opening required '/home/flourish/api.flourish.co.id./bootstrap/app.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/flourish/api.flourish.co.id/index.php on line 14
+[14-Apr-2022 12:01:08 UTC] PHP Fatal error:  Class 'Route' not found in /home/flourish/api.flourish.co.id/routes/web.php on line 20
+[14-Apr-2022 12:08:13 UTC] PHP Fatal error:  Cannot use App\Http\Controllers\Controller as Controller because the name is already in use in /home/flourish/api.flourish.co.id/app/Http/Controllers/ContentController.php on line 12
+[14-Apr-2022 12:08:24 UTC] PHP Fatal error:  Class 'App\Http\Models\ProjectModel' not found in /home/flourish/api.flourish.co.id/app/Http/Controllers/ContentController.php on line 23
+[14-Apr-2022 12:08:31 UTC] PHP Fatal error:  Class 'DB' not found in /home/flourish/api.flourish.co.id/app/Models/ProjectModel.php on line 23
+[15-Apr-2022 17:20:41 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/flourish/api.flourish.co.id/app/Http/Controllers/JournalController.php on line 43
+[15-Apr-2022 19:00:32 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/flourish/api.flourish.co.id/app/Models/ProjectModel.php on line 61
+[15-Apr-2022 19:30:32 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/flourish/api.flourish.co.id/app/Models/ProjectModel.php on line 61
+[15-Apr-2022 20:00:33 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/flourish/api.flourish.co.id/app/Models/ProjectModel.php on line 61
+[15-Apr-2022 20:30:36 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/flourish/api.flourish.co.id/app/Models/ProjectModel.php on line 61
+[15-Apr-2022 21:00:32 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/flourish/api.flourish.co.id/app/Models/ProjectModel.php on line 61
+[15-Apr-2022 21:30:32 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/flourish/api.flourish.co.id/app/Models/ProjectModel.php on line 61
+[15-Apr-2022 22:00:33 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/flourish/api.flourish.co.id/app/Models/ProjectModel.php on line 61
+[15-Apr-2022 22:30:33 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/flourish/api.flourish.co.id/app/Models/ProjectModel.php on line 61
+[15-Apr-2022 23:00:35 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/flourish/api.flourish.co.id/app/Models/ProjectModel.php on line 61
+[15-Apr-2022 23:30:32 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/flourish/api.flourish.co.id/app/Models/ProjectModel.php on line 61
+[16-Apr-2022 00:00:34 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/flourish/api.flourish.co.id/app/Models/ProjectModel.php on line 61
+[16-Apr-2022 00:30:35 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/flourish/api.flourish.co.id/app/Models/ProjectModel.php on line 61
+[16-Apr-2022 01:00:36 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/flourish/api.flourish.co.id/app/Models/ProjectModel.php on line 61
+[16-Apr-2022 01:30:34 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/flourish/api.flourish.co.id/app/Models/ProjectModel.php on line 61
+[16-Apr-2022 02:00:35 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/flourish/api.flourish.co.id/app/Models/ProjectModel.php on line 61
+[16-Apr-2022 02:30:32 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/flourish/api.flourish.co.id/app/Models/ProjectModel.php on line 61
+[16-Apr-2022 03:00:37 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/flourish/api.flourish.co.id/app/Models/ProjectModel.php on line 61
+[16-Apr-2022 03:30:39 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/flourish/api.flourish.co.id/app/Models/ProjectModel.php on line 61
+[16-Apr-2022 04:00:38 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/flourish/api.flourish.co.id/app/Models/ProjectModel.php on line 61
+[16-Apr-2022 04:30:33 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/flourish/api.flourish.co.id/app/Models/ProjectModel.php on line 61
+[16-Apr-2022 05:00:36 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/flourish/api.flourish.co.id/app/Models/ProjectModel.php on line 61
+[16-Apr-2022 05:30:34 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/flourish/api.flourish.co.id/app/Models/ProjectModel.php on line 61
+[16-Apr-2022 06:00:35 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/flourish/api.flourish.co.id/app/Models/ProjectModel.php on line 61
+[16-Apr-2022 06:30:35 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/flourish/api.flourish.co.id/app/Models/ProjectModel.php on line 61
+[16-Apr-2022 07:00:37 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/flourish/api.flourish.co.id/app/Models/ProjectModel.php on line 61
+[16-Apr-2022 07:30:31 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/flourish/api.flourish.co.id/app/Models/ProjectModel.php on line 61
+[16-Apr-2022 08:00:34 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/flourish/api.flourish.co.id/app/Models/ProjectModel.php on line 61
+[16-Apr-2022 08:30:35 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/flourish/api.flourish.co.id/app/Models/ProjectModel.php on line 61
+[16-Apr-2022 09:00:33 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/flourish/api.flourish.co.id/app/Models/ProjectModel.php on line 61
+[16-Apr-2022 09:30:34 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/flourish/api.flourish.co.id/app/Models/ProjectModel.php on line 61
+[16-Apr-2022 10:00:35 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/flourish/api.flourish.co.id/app/Models/ProjectModel.php on line 61
+[16-Apr-2022 10:30:32 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/flourish/api.flourish.co.id/app/Models/ProjectModel.php on line 61
+[16-Apr-2022 11:00:32 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/flourish/api.flourish.co.id/app/Models/ProjectModel.php on line 61
+[16-Apr-2022 11:30:33 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/flourish/api.flourish.co.id/app/Models/ProjectModel.php on line 61
+[16-Apr-2022 12:00:34 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/flourish/api.flourish.co.id/app/Models/ProjectModel.php on line 61
+[16-Apr-2022 12:30:33 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/flourish/api.flourish.co.id/app/Models/ProjectModel.php on line 61
+[16-Apr-2022 13:00:33 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/flourish/api.flourish.co.id/app/Models/ProjectModel.php on line 61
+[16-Apr-2022 13:30:32 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/flourish/api.flourish.co.id/app/Models/ProjectModel.php on line 61
+[16-Apr-2022 14:00:35 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/flourish/api.flourish.co.id/app/Models/ProjectModel.php on line 61
+[16-Apr-2022 14:30:32 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/flourish/api.flourish.co.id/app/Models/ProjectModel.php on line 61
+[16-Apr-2022 15:00:35 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/flourish/api.flourish.co.id/app/Models/ProjectModel.php on line 61
+[16-Apr-2022 15:30:33 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/flourish/api.flourish.co.id/app/Models/ProjectModel.php on line 61
+[16-Apr-2022 15:46:20 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/flourish/api.flourish.co.id/app/Models/ProjectModel.php on line 61
+[16-Apr-2022 17:36:43 UTC] PHP Fatal error:  Class 'App\Models\SliderMOdel' not found in /home/flourish/api.flourish.co.id/app/Http/Controllers/OurWorkController.php on line 25
+[16-Apr-2022 17:52:59 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Clients' not found in /home/flourish/api.flourish.co.id/app/Http/Controllers/OurWorkController.php on line 27
+[18-Apr-2022 07:27:01 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/flourish/api.flourish.co.id/app/Http/Controllers/ContentController.php on line 53
+[18-Apr-2022 08:25:41 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/flourish/api.flourish.co.id/app/Http/Controllers/ContentController.php on line 67
+[18-Apr-2022 08:25:49 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/flourish/api.flourish.co.id/app/Http/Controllers/ContentController.php on line 67
+[18-Apr-2022 08:29:03 UTC] PHP Parse error:  syntax error, unexpected 'dd' (T_STRING) in /home/flourish/api.flourish.co.id/app/Http/Controllers/ContentController.php on line 72
+[18-Apr-2022 08:55:36 UTC] PHP Parse error:  syntax error, unexpected '{', expecting ']' in /home/flourish/api.flourish.co.id/app/Http/Controllers/ContentController.php on line 88
+[18-Apr-2022 08:55:47 UTC] PHP Parse error:  syntax error, unexpected '{', expecting ']' in /home/flourish/api.flourish.co.id/app/Http/Controllers/ContentController.php on line 88
+[18-Apr-2022 08:55:47 UTC] PHP Parse error:  syntax error, unexpected '{', expecting ']' in /home/flourish/api.flourish.co.id/app/Http/Controllers/ContentController.php on line 88
+[18-Apr-2022 08:56:22 UTC] PHP Parse error:  syntax error, unexpected '{', expecting ']' in /home/flourish/api.flourish.co.id/app/Http/Controllers/ContentController.php on line 83
+[18-Apr-2022 08:56:24 UTC] PHP Parse error:  syntax error, unexpected '{', expecting ']' in /home/flourish/api.flourish.co.id/app/Http/Controllers/ContentController.php on line 83
+[18-Apr-2022 08:56:24 UTC] PHP Parse error:  syntax error, unexpected '{', expecting ']' in /home/flourish/api.flourish.co.id/app/Http/Controllers/ContentController.php on line 83
+[18-Apr-2022 08:56:55 UTC] PHP Parse error:  syntax error, unexpected '{', expecting ']' in /home/flourish/api.flourish.co.id/app/Http/Controllers/ContentController.php on line 74
+[18-Apr-2022 08:57:08 UTC] PHP Parse error:  syntax error, unexpected '{', expecting ']' in /home/flourish/api.flourish.co.id/app/Http/Controllers/ContentController.php on line 74
+[18-Apr-2022 08:57:28 UTC] PHP Parse error:  syntax error, unexpected '{', expecting ']' in /home/flourish/api.flourish.co.id/app/Http/Controllers/ContentController.php on line 74
+[18-Apr-2022 08:58:24 UTC] PHP Parse error:  syntax error, unexpected '{', expecting ']' in /home/flourish/api.flourish.co.id/app/Http/Controllers/ContentController.php on line 74
+[18-Apr-2022 08:58:29 UTC] PHP Parse error:  syntax error, unexpected '{', expecting ']' in /home/flourish/api.flourish.co.id/app/Http/Controllers/ContentController.php on line 75
+[18-Apr-2022 08:58:31 UTC] PHP Parse error:  syntax error, unexpected '{', expecting ']' in /home/flourish/api.flourish.co.id/app/Http/Controllers/ContentController.php on line 75
+[18-Apr-2022 09:01:52 UTC] PHP Fatal error:  Call to undefined function App\Http\Controllers\objectToArray() in /home/flourish/api.flourish.co.id/app/Http/Controllers/ContentController.php on line 83
